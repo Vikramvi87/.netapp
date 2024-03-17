@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project default_configuration_name="Configuration 1" fallback_default_config_name="Configuration 1" file_encoding="ISO-8859-1" ltd_name="dotnet-source-code.ltd" name="scm" version="10.2.0">
+	<Configuration name="Configuration 1"/>
+	<Source exclude="false" path=".\.scans" web="false"/>
+	<Source exclude="false" path=".\.vs" web="false"/>
+	<Source exclude="false" path=".\WebGoat" web="false"/>
+	<ProjectScanSettings secret_scanner="false"/>
+</Project>
